@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Bajar</h1>
-<h3 align="center">A passionate front-end developer from the Philippines</h3>
+<h3 align="center">A passionate front-end developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bajar0880&label=Profile%20views&color=0e75b6&style=flat" alt="bajar0880" /> </p>
 
@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning **React.js and Tailwind Css**
 
 - 🤝 I’m looking for help with **DevOps**
+
+- 👨‍💻 My on-going Portfolio [https://bajar0880.github.io/ongoing-portfolio/](https://bajar0880.github.io/ongoing-portfolio/)
 
 - 💬 Ask me about **React**
 
